@@ -1,0 +1,2 @@
+# Caffe_face_detect
+利用caffe深度学习架构进行人脸的识别
